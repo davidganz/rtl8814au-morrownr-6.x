@@ -1,4 +1,4 @@
-*** Realtek Rtl8814AU Morrownr Linux Driver Patched to Support Kernels 6.X"
+*** Realtek Rtl8814AU Morrownr Linux Driver Patched to Support Kernels 6.X ***
 Currently, the best one also supports Monitor Mode.
 
 Notice: This notice is to let you know that a new mac80211 compatible
